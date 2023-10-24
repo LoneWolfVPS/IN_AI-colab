@@ -103,19 +103,19 @@ sd-1/controlnet/lineart_anime:
    recommended: False
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
-   recommended: False
+   recommended: True
 sd-1/controlnet/scribble:
    repo_id: lllyasviel/control_v11p_sd15_scribble
    recommended: False
 sd-1/controlnet/softedge:
    repo_id: lllyasviel/control_v11p_sd15_softedge
-   recommended: False
+   recommended: True
 sd-1/controlnet/shuffle:
    repo_id: lllyasviel/control_v11e_sd15_shuffle
    recommended: False
 sd-1/controlnet/tile:
    repo_id: lllyasviel/control_v11f1e_sd15_tile
-   recommended: False
+   recommended: True
 sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
    recommended: False
@@ -130,4 +130,4 @@ sd-1/lora/LowRA:
    recommended: True
 sd-1/lora/Ink scenery:
    path: https://civitai.com/api/download/models/83390
-   recommended: False
+   recommended: True
