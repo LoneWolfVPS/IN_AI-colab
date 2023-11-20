@@ -1,7 +1,7 @@
 # This file predefines a few models that the user may want to install.
 sd-1/main/CyberRlst:
    description: CyberRlst model (5.67 GB)
-   repo_id: LoneWolfVPS/cybrrlstc
+   path: https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealistic_v33.safetensors
    recommended: True
    default: True
 sd-1/main/stable-diffusion-v1-5:
