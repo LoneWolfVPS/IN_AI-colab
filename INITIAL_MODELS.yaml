@@ -4,7 +4,7 @@ sd-1/main/CyberRlst:
    path: https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealistic_v33.safetensors
    recommended: True
    default: True
-sd-1/main/CyberRlst:
+sd-1/main/SamDoesFart:
    description: SamDoesFart model (4.27 GB)
    path: https://huggingface.co/LoneWolfVPS/MyFavSDA/resolve/main/SDAV3.safetensors
    recommended: True
