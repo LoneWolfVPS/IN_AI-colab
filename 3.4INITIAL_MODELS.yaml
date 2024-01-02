@@ -139,21 +139,21 @@ sd-1/lora/Ink scenery:
    recommended: False
 sd-1/ip_adapter/ip_adapter_sd15:
    repo_id: InvokeAI/ip_adapter_sd15
-   recommended: False
+   recommended: True
    requires:
       - InvokeAI/ip_adapter_sd_image_encoder
    description: IP-Adapter for SD 1.5 models
 
 sd-1/ip_adapter/ip_adapter_plus_sd15:
    repo_id: InvokeAI/ip_adapter_plus_sd15
-   recommended: False
+   recommended: True
    requires:
       - InvokeAI/ip_adapter_sd_image_encoder
    description: Refined IP-Adapter for SD 1.5 models
 
 sd-1/ip_adapter/ip_adapter_plus_face_sd15:
    repo_id: InvokeAI/ip_adapter_plus_face_sd15
-   recommended: False
+   recommended: True
    requires:
       - InvokeAI/ip_adapter_sd_image_encoder
    description: Refined IP-Adapter for SD 1.5 models, adapted for faces
@@ -167,7 +167,7 @@ sdxl/ip_adapter/ip_adapter_sdxl:
 
 any/clip_vision/ip_adapter_sd_image_encoder:
    repo_id: InvokeAI/ip_adapter_sd_image_encoder
-   recommended: False
+   recommended: True
    description: Required model for using IP-Adapters with SD-1/2 models
 
 any/clip_vision/ip_adapter_sdxl_image_encoder:
